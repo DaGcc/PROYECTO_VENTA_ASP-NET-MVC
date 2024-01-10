@@ -11,4 +11,5 @@ public partial class Configuracion
 
     public string? Valor { get; set; }
 
+    // Este comentario es de mi pc no de mi laptop
 }
